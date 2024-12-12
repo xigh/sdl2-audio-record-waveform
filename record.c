@@ -1,7 +1,3 @@
-// cc -I /opt/homebrew/include/ -o record/record record/record.c -L /opt/homebrew/lib -lSDL2
-
-// whisperx ./audio.wav --compute_type int8 --model large-v3 --lang fr --batch_size 4
-
 #include <SDL2/SDL.h>
 #include <stdio.h>
 

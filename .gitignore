@@ -1,3 +1,5 @@
 record
 record-0.c
 .vscode
+*.wav
+TODO.md
